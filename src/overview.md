@@ -3,7 +3,7 @@
 {{#include ./include/links.md}}
 
 This book is organized into a number of different chapters, covering different
-aspects of working with Bevy. The is designed to be useful as a reference
+aspects of working with Bevy. This is designed to be useful as a reference
 and learning tool, so you can jump to what interests you and learn about it.
 
 If you would like a more guided tutorial-like experience, or to browse the
