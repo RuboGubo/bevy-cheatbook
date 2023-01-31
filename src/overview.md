@@ -11,7 +11,7 @@ book by relative difficulty (from beginner to advanced), try the [guided
 tutorial page][chapter::tutorial]. It recommends topics in a logical order for
 learning.
 
-The [Bevy Builtins][chapter::builtins] page is a concise cheatsheet of useful
+The [Bevy Builtins][chapter::builtins] page is a concise cheat sheet of useful
 information about types and features provided by Bevy.
 
 The book has the following general chapters:
@@ -19,7 +19,7 @@ The book has the following general chapters:
  - [Bevy Setup Tips][chapter::setup]: project setup advice, recommendations for tools and plugins
  - [Common Pitfalls][chapter::pitfalls]: solutions for common issues encountered by the community
  - [Bevy Cookbook][chapter::cookbook]: various code examples beyond the ones in Bevy official repos
- - [Bevy on Different Platforms][chapter::platforms]: information about working with specific plaforms / OSs
+ - [Bevy on Different Platforms][chapter::platforms]: information about working with specific platforms / OSs
 
 To learn how to program in Bevy, see these chapters:
  - [Bevy Programming Framework][chapter::programming]: the ECS+App frameworks, the foundation of everything
